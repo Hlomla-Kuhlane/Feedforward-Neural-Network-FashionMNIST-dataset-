@@ -1,4 +1,4 @@
-This Assignment implements a feedforward neural network using PyTorch to classify images from the FashionMNIST dataset. The network is trained to recognize different categories of fashion items, such as dresses, trousers, and sneakers.
+This implements a feedforward neural network using PyTorch to classify images from the FashionMNIST dataset. The network is trained to recognize different categories of fashion items, such as dresses, trousers, and sneakers.
 
 File Description
 
