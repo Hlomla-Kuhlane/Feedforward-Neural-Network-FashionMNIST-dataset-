@@ -1,0 +1,337 @@
+Pytorch Output...
+Epoch 1/20, Loss: 0.5995
+Epoch 2/20, Loss: 0.4389
+Epoch 3/20, Loss: 0.3975
+Epoch 4/20, Loss: 0.3691
+Epoch 5/20, Loss: 0.3528
+Epoch 6/20, Loss: 0.3422
+Epoch 7/20, Loss: 0.3315
+Epoch 8/20, Loss: 0.3236
+Epoch 9/20, Loss: 0.3118
+Epoch 10/20, Loss: 0.3056
+Epoch 11/20, Loss: 0.2959
+Epoch 12/20, Loss: 0.2934
+Epoch 13/20, Loss: 0.2845
+Epoch 14/20, Loss: 0.2779
+Epoch 15/20, Loss: 0.2759
+Epoch 16/20, Loss: 0.2729
+Epoch 17/20, Loss: 0.2643
+Epoch 18/20, Loss: 0.2623
+Epoch 19/20, Loss: 0.2579
+Epoch 20/20, Loss: 0.2534
+Test Accuracy: 87.26%
+Done!
+Please enter a filepath
+> 
+
+
+
+ytorch Output...
+Epoch 1/35, Loss: 0.5984
+Epoch 2/35, Loss: 0.4374
+Epoch 3/35, Loss: 0.3955
+Epoch 4/35, Loss: 0.3781
+Epoch 5/35, Loss: 0.3579
+Epoch 6/35, Loss: 0.3420
+Epoch 7/35, Loss: 0.3338
+Epoch 8/35, Loss: 0.3199
+Epoch 9/35, Loss: 0.3134
+Epoch 10/35, Loss: 0.3052
+Epoch 11/35, Loss: 0.3004
+Epoch 12/35, Loss: 0.2916
+Epoch 13/35, Loss: 0.2894
+Epoch 14/35, Loss: 0.2820
+Epoch 15/35, Loss: 0.2753
+Epoch 16/35, Loss: 0.2704
+Epoch 17/35, Loss: 0.2693
+Epoch 18/35, Loss: 0.2631
+Epoch 19/35, Loss: 0.2626
+Epoch 20/35, Loss: 0.2567
+Epoch 21/35, Loss: 0.2504
+Epoch 22/35, Loss: 0.2502
+Epoch 23/35, Loss: 0.2465
+Epoch 24/35, Loss: 0.2442
+Epoch 25/35, Loss: 0.2336
+Epoch 26/35, Loss: 0.2361
+Epoch 27/35, Loss: 0.2321
+Epoch 28/35, Loss: 0.2325
+Epoch 29/35, Loss: 0.2268
+Epoch 30/35, Loss: 0.2277
+Epoch 31/35, Loss: 0.2238
+Epoch 32/35, Loss: 0.2216
+Epoch 33/35, Loss: 0.2182
+Epoch 34/35, Loss: 0.2164
+Epoch 35/35, Loss: 0.2151
+Test Accuracy: 88.18%
+Done!
+Please enter a filepath
+> 
+
+
+Pytorch Output...
+Epoch 1/50, Loss: 0.5979
+Epoch 2/50, Loss: 0.4382
+Epoch 3/50, Loss: 0.3993
+Epoch 4/50, Loss: 0.3783
+Epoch 5/50, Loss: 0.3589
+Epoch 6/50, Loss: 0.3411
+Epoch 7/50, Loss: 0.3319
+Epoch 8/50, Loss: 0.3219
+Epoch 9/50, Loss: 0.3137
+Epoch 10/50, Loss: 0.3033
+Epoch 11/50, Loss: 0.2972
+Epoch 12/50, Loss: 0.2924
+Epoch 13/50, Loss: 0.2864
+Epoch 14/50, Loss: 0.2828
+Epoch 15/50, Loss: 0.2727
+Epoch 16/50, Loss: 0.2751
+Epoch 17/50, Loss: 0.2670
+Epoch 18/50, Loss: 0.2616
+Epoch 19/50, Loss: 0.2594
+Epoch 20/50, Loss: 0.2552
+Epoch 21/50, Loss: 0.2519
+Epoch 22/50, Loss: 0.2476
+Epoch 23/50, Loss: 0.2479
+Epoch 24/50, Loss: 0.2415
+Epoch 25/50, Loss: 0.2405
+Epoch 26/50, Loss: 0.2354
+Epoch 27/50, Loss: 0.2310
+Epoch 28/50, Loss: 0.2304
+Epoch 29/50, Loss: 0.2313
+Epoch 30/50, Loss: 0.2301
+Epoch 31/50, Loss: 0.2219
+Epoch 32/50, Loss: 0.2209
+Epoch 33/50, Loss: 0.2181
+Epoch 34/50, Loss: 0.2178
+Epoch 35/50, Loss: 0.2141
+Epoch 36/50, Loss: 0.2084
+Epoch 37/50, Loss: 0.2086
+Epoch 38/50, Loss: 0.2111
+Epoch 39/50, Loss: 0.2061
+Epoch 40/50, Loss: 0.2053
+Epoch 41/50, Loss: 0.2063
+Epoch 42/50, Loss: 0.2014
+Epoch 43/50, Loss: 0.1982
+Epoch 44/50, Loss: 0.1955
+Epoch 45/50, Loss: 0.1958
+Epoch 46/50, Loss: 0.1949
+Epoch 47/50, Loss: 0.1937
+Epoch 48/50, Loss: 0.1900
+Epoch 49/50, Loss: 0.1909
+Epoch 50/50, Loss: 0.1892
+Test Accuracy: 88.05%
+Done!
+Please enter a filepath
+> 
+
+
+ytorch Output...
+Epoch 1/70, Loss: 0.5978
+Epoch 2/70, Loss: 0.4360
+Epoch 3/70, Loss: 0.3986
+Epoch 4/70, Loss: 0.3719
+Epoch 5/70, Loss: 0.3572
+Epoch 6/70, Loss: 0.3432
+Epoch 7/70, Loss: 0.3294
+Epoch 8/70, Loss: 0.3224
+Epoch 9/70, Loss: 0.3123
+Epoch 10/70, Loss: 0.3065
+Epoch 11/70, Loss: 0.2998
+Epoch 12/70, Loss: 0.2973
+Epoch 13/70, Loss: 0.2846
+Epoch 14/70, Loss: 0.2860
+Epoch 15/70, Loss: 0.2769
+Epoch 16/70, Loss: 0.2709
+Epoch 17/70, Loss: 0.2649
+Epoch 18/70, Loss: 0.2644
+Epoch 19/70, Loss: 0.2587
+Epoch 20/70, Loss: 0.2548
+Epoch 21/70, Loss: 0.2500
+Epoch 22/70, Loss: 0.2512
+Epoch 23/70, Loss: 0.2428
+Epoch 24/70, Loss: 0.2430
+Epoch 25/70, Loss: 0.2382
+Epoch 26/70, Loss: 0.2349
+Epoch 27/70, Loss: 0.2347
+Epoch 28/70, Loss: 0.2317
+Epoch 29/70, Loss: 0.2239
+Epoch 30/70, Loss: 0.2260
+Epoch 31/70, Loss: 0.2197
+Epoch 32/70, Loss: 0.2178
+Epoch 33/70, Loss: 0.2190
+Epoch 34/70, Loss: 0.2147
+Epoch 35/70, Loss: 0.2140
+Epoch 36/70, Loss: 0.2125
+Epoch 37/70, Loss: 0.2076
+Epoch 38/70, Loss: 0.2025
+Epoch 39/70, Loss: 0.2094
+Epoch 40/70, Loss: 0.2035
+Epoch 41/70, Loss: 0.2058
+Epoch 42/70, Loss: 0.2000
+Epoch 43/70, Loss: 0.1943
+Epoch 44/70, Loss: 0.1917
+Epoch 45/70, Loss: 0.1982
+Epoch 46/70, Loss: 0.1911
+Epoch 47/70, Loss: 0.1919
+Epoch 48/70, Loss: 0.1874
+Epoch 49/70, Loss: 0.1893
+Epoch 50/70, Loss: 0.1907
+Epoch 51/70, Loss: 0.1848
+Epoch 52/70, Loss: 0.1843
+Epoch 53/70, Loss: 0.1817
+Epoch 54/70, Loss: 0.1798
+Epoch 55/70, Loss: 0.1798
+Epoch 56/70, Loss: 0.1789
+Epoch 57/70, Loss: 0.1777
+Epoch 58/70, Loss: 0.1782
+Epoch 59/70, Loss: 0.1734
+Epoch 60/70, Loss: 0.1744
+Epoch 61/70, Loss: 0.1714
+Epoch 62/70, Loss: 0.1702
+Epoch 63/70, Loss: 0.1696
+Epoch 64/70, Loss: 0.1683
+Epoch 65/70, Loss: 0.1694
+Epoch 66/70, Loss: 0.1643
+Epoch 67/70, Loss: 0.1679
+Epoch 68/70, Loss: 0.1625
+Epoch 69/70, Loss: 0.1634
+Epoch 70/70, Loss: 0.1627
+Test Accuracy: 90.93%
+Done!
+Please enter a filepath
+> 
+
+
+Pytorch Output...
+Epoch 1/35, Loss: 0.5967
+Epoch 2/35, Loss: 0.4353
+Epoch 3/35, Loss: 0.3942
+Epoch 4/35, Loss: 0.3762
+Epoch 5/35, Loss: 0.3536
+Epoch 6/35, Loss: 0.3428
+Epoch 7/35, Loss: 0.3289
+Epoch 8/35, Loss: 0.3187
+Epoch 9/35, Loss: 0.3116
+Epoch 10/35, Loss: 0.3039
+Epoch 11/35, Loss: 0.3001
+Epoch 12/35, Loss: 0.2898
+Epoch 13/35, Loss: 0.2858
+Epoch 14/35, Loss: 0.2827
+Epoch 15/35, Loss: 0.2722
+Epoch 16/35, Loss: 0.2695
+Epoch 17/35, Loss: 0.2673
+Epoch 18/35, Loss: 0.2616
+Epoch 19/35, Loss: 0.2599
+Epoch 20/35, Loss: 0.2534
+Epoch 21/35, Loss: 0.2469
+Epoch 22/35, Loss: 0.2451
+Epoch 23/35, Loss: 0.2430
+Epoch 24/35, Loss: 0.2414
+Epoch 25/35, Loss: 0.2386
+Epoch 26/35, Loss: 0.2351
+Epoch 27/35, Loss: 0.2322
+Epoch 28/35, Loss: 0.2325
+Epoch 29/35, Loss: 0.2269
+Epoch 30/35, Loss: 0.2268
+Epoch 31/35, Loss: 0.2235
+Epoch 32/35, Loss: 0.2220
+Epoch 33/35, Loss: 0.2172
+Epoch 34/35, Loss: 0.2153
+Epoch 35/35, Loss: 0.2112
+Test Accuracy: 87.80%
+Done!
+Please enter a filepath
+> 
+
+
+
+Pytorch Output...
+Epoch 1/85, Loss: 0.6058
+Epoch 2/85, Loss: 0.4381
+Epoch 3/85, Loss: 0.3978
+Epoch 4/85, Loss: 0.3750
+Epoch 5/85, Loss: 0.3571
+Epoch 6/85, Loss: 0.3415
+Epoch 7/85, Loss: 0.3354
+Epoch 8/85, Loss: 0.3189
+Epoch 9/85, Loss: 0.3106
+Epoch 10/85, Loss: 0.3063
+Epoch 11/85, Loss: 0.3036
+Epoch 12/85, Loss: 0.2925
+Epoch 13/85, Loss: 0.2906
+Epoch 14/85, Loss: 0.2832
+Epoch 15/85, Loss: 0.2768
+Epoch 16/85, Loss: 0.2754
+Epoch 17/85, Loss: 0.2676
+Epoch 18/85, Loss: 0.2650
+Epoch 19/85, Loss: 0.2593
+Epoch 20/85, Loss: 0.2578
+Epoch 21/85, Loss: 0.2538
+Epoch 22/85, Loss: 0.2522
+Epoch 23/85, Loss: 0.2439
+Epoch 24/85, Loss: 0.2430
+Epoch 25/85, Loss: 0.2368
+Epoch 26/85, Loss: 0.2359
+Epoch 27/85, Loss: 0.2330
+Epoch 28/85, Loss: 0.2307
+Epoch 29/85, Loss: 0.2284
+Epoch 30/85, Loss: 0.2251
+Epoch 31/85, Loss: 0.2217
+Epoch 32/85, Loss: 0.2236
+Epoch 33/85, Loss: 0.2257
+Epoch 34/85, Loss: 0.2175
+Epoch 35/85, Loss: 0.2175
+Epoch 36/85, Loss: 0.2112
+Epoch 37/85, Loss: 0.2086
+Epoch 38/85, Loss: 0.2101
+Epoch 39/85, Loss: 0.2055
+Epoch 40/85, Loss: 0.2085
+Epoch 41/85, Loss: 0.2051
+Epoch 42/85, Loss: 0.2000
+Epoch 43/85, Loss: 0.2000
+Epoch 44/85, Loss: 0.1964
+Epoch 45/85, Loss: 0.1936
+Epoch 46/85, Loss: 0.1908
+Epoch 47/85, Loss: 0.1912
+Epoch 48/85, Loss: 0.1909
+Epoch 49/85, Loss: 0.1881
+Epoch 50/85, Loss: 0.1875
+Epoch 51/85, Loss: 0.1873
+Epoch 52/85, Loss: 0.1823
+Epoch 53/85, Loss: 0.1863
+Epoch 54/85, Loss: 0.1788
+Epoch 55/85, Loss: 0.1804
+Epoch 56/85, Loss: 0.1810
+Epoch 57/85, Loss: 0.1761
+Epoch 58/85, Loss: 0.1786
+Epoch 59/85, Loss: 0.1737
+Epoch 60/85, Loss: 0.1753
+Epoch 61/85, Loss: 0.1729
+Epoch 62/85, Loss: 0.1713
+Epoch 63/85, Loss: 0.1704
+Epoch 64/85, Loss: 0.1692
+Epoch 65/85, Loss: 0.1708
+Epoch 66/85, Loss: 0.1661
+Epoch 67/85, Loss: 0.1643
+Epoch 68/85, Loss: 0.1646
+Epoch 69/85, Loss: 0.1637
+Epoch 70/85, Loss: 0.1603
+Epoch 71/85, Loss: 0.1607
+Epoch 72/85, Loss: 0.1622
+Epoch 73/85, Loss: 0.1579
+Epoch 74/85, Loss: 0.1591
+Epoch 75/85, Loss: 0.1595
+Epoch 76/85, Loss: 0.1568
+Epoch 77/85, Loss: 0.1541
+Epoch 78/85, Loss: 0.1620
+Epoch 79/85, Loss: 0.1522
+Epoch 80/85, Loss: 0.1505
+Epoch 81/85, Loss: 0.1548
+Epoch 82/85, Loss: 0.1495
+Epoch 83/85, Loss: 0.1491
+Epoch 84/85, Loss: 0.1558
+Epoch 85/85, Loss: 0.1525
+Test Accuracy: 91.04%
+Done!
+Please enter a filepath
+> 
